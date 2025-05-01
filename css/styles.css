@@ -613,6 +613,7 @@ Contact
 
 .contact-form {
   display: flex;
+  flex-wrap: wrap;
   max-width: 28rem;
 }
 
